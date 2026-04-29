@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Graph Studio",
+  "description": "A visual editor to design your GitHub contribution graph. Create patterns, pixel art, or data-driven visuals for your commit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
